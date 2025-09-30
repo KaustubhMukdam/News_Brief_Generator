@@ -6,7 +6,7 @@ A multi-model, multi-style AI news/document summarizer with intuitive web interf
 
 ## 🔗 Live Demo
 
-> [STREAMLIT APP LINK HERE](https://share.streamlit.io/your-username/news-brief-generator/main/streamlit_app.py) *(replace with your link)*
+> [STREAMLIT APP LINK HERE](https://newsbriefgenerator-emdafmyzq3jq47bhqzpotw.streamlit.app/)
 
 ---
 
