@@ -111,8 +111,6 @@ cython_debug/
 
 # Images, results, exported files
 *.csv
-*.jpg
-*.png
 
 # Streamlit stuff
 .streamlit/secrets.toml

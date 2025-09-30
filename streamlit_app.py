@@ -67,7 +67,7 @@ with st.sidebar:
         - Download CSV report of your runs.
     """, unsafe_allow_html=True)
     st.markdown('---')
-    st.markdown("🌐 [Portfolio](https://your-portfolio-link) &nbsp;|&nbsp; [GitHub](https://your-github-link) &nbsp;|&nbsp; [LinkedIn](https://your-linkedin-link)")
+    st.markdown("🌐 [Portfolio](https://portfolio-website-drab-kappa-33.vercel.app/) &nbsp;|&nbsp; [GitHub](https://github.com/KaustubhMukdam) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/kaustubh-mukdam-ab0170340/)")
     theme_mode = st.radio("Theme", ["Dark"], index=0)  # (More can be added, Streamlit theming is limited currently)
 
 # --- MAIN TITLE ---
