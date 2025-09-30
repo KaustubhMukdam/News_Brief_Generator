@@ -1,3 +1,7 @@
+# 📰 Project 5/20 – News Brief Generator (AI-Powered Summarizer)
+
+*Part of my **100 Days of Code – Portfolio Project Series***
+
 # 📰 News Brief Generator
 
 A multi-model, multi-style AI news/document summarizer with intuitive web interface, export, and evaluation metrics. Built for resumes, portfolio, and easy real-world use!
@@ -19,6 +23,15 @@ A multi-model, multi-style AI news/document summarizer with intuitive web interf
 - **Beautiful Perplexity-style dark UI**
 - **Easy CSV export** for all results and scoring
 - **Demo mode** for quick testing
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend/UI**: Streamlit  
+- **Backend/AI**: Groq, OpenAI, Ollama (local LLMs)  
+- **Evaluation**: Keyword matching, semantic similarity (embeddings)  
+- **Deployment**: Streamlit Cloud 
 
 ---
 
@@ -67,6 +80,20 @@ groq
 
 ---
 
+📚 Learning Outcomes
+
+Through this project, I learned:
+
+How to build an end-to-end AI app (backend + frontend integration)
+
+Streamlit best practices for building custom UIs
+
+Deploying and scaling apps on the cloud (Streamlit Cloud)
+
+Fundamentals of model benchmarking & explainable AI
+
+---
+
 ## 🛡️ Security
 
 - API keys should be stored securely as environment variables.
@@ -74,10 +101,20 @@ groq
 
 ---
 
+🤝 Contributing
+
+Contributions are welcome!
+
+Report bugs or suggest improvements via Issues
+
+Fork and submit PRs with new features or fixes
+
+---
+
 ## 👨‍💻 Author
 
-**Your Name**  
-[Portfolio](https://your-portfolio-link) • [GitHub](https://your-github-link) • [LinkedIn](https://your-linkedin-link)
+**Kaustubh Mukdam**  
+[Portfolio](https://portfolio-website-drab-kappa-33.vercel.app/) • [GitHub](https://github.com/KaustubhMukdam) • [LinkedIn](https://www.linkedin.com/in/kaustubh-mukdam-ab0170340/)
 
 ---
 
