@@ -1,0 +1,448 @@
+
+00:00:00
+So I think we can start even though I see the number still growing but uh we can start with some initial introduction. So welcome to the triple AI panel on artificial general intelligence. Um I'm Franchesca Rossi. the past president of triple AI and I organized a triple AI report on the future of AI research that was published during few months ago during the triple AI 2025 com conference uh with the goal of covering several trends in AI research who is doing research so corporate versus uh academic research uh moniary versus interdicciplinary research and what is the topic of research reasoning AGI factuality agentic AI and so on. Uh the risks in AI research. So co covering AI ethics and safety, AI for social good, AI and sustainability, AI for science and how research is done. Um
+
+
+00:01:06
+more focus on evaluation test benchmarks because of emergent behavior as well as some uh additional topics like AI perception of of AI versus reality, the geopolitical AI race and so on. Overall 17 topics that were summarized in 17 chapters by 24 researchers that I chose with very diversity a lot of diversity in gender, geography, expertise, work environment, areas of AI plus a community survey where each one of these topics we asked uh the AI community what they were thinking about some dimensions of these topics. um many people responded almost 500 people and you will find in the report the responses of to these questions and we will discuss some of them related to the AGI topic. So today is the first of the panels that we the triple EAI is
+
+
+00:02:09
+going to organize about specific topics covered by this report. Uh and this is the AGI chapter. Uh of course artificial general intelligence has been a topic of discussion and the overall goal of the AI research community since the start in 1956. um more um emphasis has been put over the years on humans level AI and artificial general intelligence to mean AI system that have capabilities to solve problems as well as human beings.
+
+
+00:02:47
+Um but this uh uh um this this topic has been very controversial and even discussed a lot whether it should be the talk the goal of AI research or not or whether it is uh an existential risk or not or whether um the rise in general of more general capabilities um is something to be uh expected uh with the current methods or it will need additional technologies.
+
+
+00:03:18
+ So a lot of dimensions of discussions around AGI in the AI research community and beyond. Uh so that's why we start we start with this panel and um let me introduce the panelist. So we have Eric Corvitz from Microsoft, Stuart Russell from the University of California Berkeley and Olga from University of Aken.
+
+
+00:03:40
+ uh they're very well respected and very um you know um well you know productive uh researchers not just with papers technical papers but also in the discussion about various dimension of RGI and all three of them participated in the triplei report on the future of AI research. Um so let me start with the obvious questions about AGI uh from Stuart.
+
+
+00:04:11
+ Uh so what is Stuart AGI? Uh is there a generally agreed upon definition and do we need a generally agreed definition and a precise definition to to talk about AGI and evaluate its risk and its capabilities? Stuart. Uh thanks Franchesca. Um and it's actually it's a good question to ask and I think uh looking at the various definitions that I've found um everyone more or less agrees that uh AGI systems would be AI systems that match or exceed human cognitive abilities uh in every relevant dimension.
+
+
+00:04:52
+ Um I'd say the main point of disagreement is whether that includes uh perception and motor control uh which would enable an AGI system to operate robots and drive cars and so on so forth. And I think most people would say yes that's part of human cognition uh and it should be part of AGI as well. Um the main disagreement is is you know is AGI the right thing to talk about? Um there's another term which is transformative AI which means AI that is capable enough to cause major disruptive transformation to the world. Um because already AI systems are much faster at uh calculations. You know their cycle time is millions of times faster than the human brain. They have much greater communication bandwidth. They can replicate themselves instantly. they can conduct hundreds of millions of conversations simultaneously. They've read everything the human race has ever
+
+
+00:05:54
+written. Um so even if let's say they don't learn as fast per data point uh as a human, you know, they have access to much more data uh and so they could still transform the world for better or worse. Thanks Stuart. Eric Olar, do you want to add anything to that? Uh Eric, I think you're on mute. Well, I thank you.
+
+
+00:06:15
+ I'd like to and thank you, Stuart. That that was very very nice summary. Um I think it's interesting to to note that um uh that this idea of a of artificial general intelligence it came in prehistorically I think in the frame of actual successes of AI in in narrow areas you know sort of the early 2000s sort of around the same time we saw words like human level AI being being used to get us hearken back to the earlier days of foundational um goals of AI which were to seek principles of intelligence. Uh so it was a reminder that that you know that to get on the right track per the aspirations of AI we should be thinking about what we see in humans. Um but there's not a single definition uh the idea of um a single uh scalar notion of where where a threshold is reached where we have AGI versus not. I view view it
+
+
+00:07:19
+as us walking on a multi-dimensional surface with multiple uh skills. Um you know already um even even electronic calculators were super intelligent on a particular dimension going way beyond what humans can do. But this idea of of generality is very interesting and important. Um and um uh the capabilities that span multiple dimensions of generality and utility uh I think is something that can sort of define where we go.
+
+
+00:07:47
+ um and and how we think about um more more powerful and more general intelligences. Thanks. Thanks, Eric. Olga, do you want to add anything? Not much to add there. I I agree with uh with Eric here that in order to transform the world, right, it doesn't have to match us or exceed our capabilities across the entire spectrum. And then, you know, not not all people are equal in their capabilities either.
+
+
+00:08:15
+So that's sort of a difficult thing to say anyway, right? Uh so are we talking about an average human? Are we talking about um you know experts in various areas? But in order to be transformative, it's it's actually quite sufficient to be very very good in relatively narrow niches.
+
+
+00:08:29
+ And then what happens once you go beyond these niches, that's that's a different matter, right? But for the transformative impact to occur, maybe that's not the most important question. Yeah. In fact, the next question and I give it to Olar as a followup is about but is it really needed to have AGI to make sure that AI is useful, reliable, you know, to to many domains or can you know are we happy also with the usefulness of less general and powerful version of AI? Well, happiness is an interesting question here, right? So let let me stick with your with your first permutation perhaps, right? Can AI systems be useful without being in the vicinity of AGI as most people would see it? And I think the answer is very clearly yes. I think AI systems have been useful actually for much longer than we've had um generative AI systems uh like like chat GPT, right? AI has been having um pretty major uh economic
+
+
+00:09:36
+impact and and one example that I always like to quote for that is that we wouldn't have any of the computer hardware that we're currently using not just for AI purposes but pretty much for everything for running our society running running most of our economy running major parts of our artistic production for example right we wouldn't have that if it weren't for certain types of AI techniques from the area of automated reasoning which is very very different from what people tend to be excited about nowadays because as it turns out modern chips including the GPUs that are that are used for generative AI and the CPUs that are used for uh pretty much everything else um they wouldn't be possible uh without chip design tools that rely on AI techniques and that has been the case for at least 20 25 years and there are other examples too so in order to have uh a lot of benefit um AI doesn't have to be particularly general. Um now of course if you go to more general AI techniques and in particular if you get into this area
+
+
+00:10:38
+where people would would speak of AGI um the the the benefits will will become bigger right and and the impact will also become much much bigger and once you reach the vicinity of the point where even we can replace an average human in in all their cognitive abilities and you know very much like what Stuart said in the beginning I would count sort of the motor skills amongst this.
+
+
+00:11:00
+ So, you know, I would think that it doesn't make sense to to talk about AGI if the thing can't essentially drive a car or fly an aeroplane um or steer a ship, right? Because humans can this um can can do this in the in the case of cars with relatively little training. So, we we let 16 years old do it and probably 14y olds could do it as well, right? Um so so that of course once you reach that threshold and and and you can do these things the economic impact will be tremendously bigger than what we what we currently see. Nonetheless, you know, it doesn't take this in order to be tremendously useful or also to have the potential to to do tremendous damage if we if we handled incorrectly. And I need to add just to add to that a little bit and thanks Hulker. um you know um I'd like talking I don't want to shift the whole conversation here to more general uh intelligence intelligences based on machine uh intellect that can do humanlike composition abstraction uh can reason across tasks can apply skills
+
+
+00:12:05
+uh at doing one task to another for example those kinds of of of abilities and uh capabilities we're seeing Now, in in some of the generative models of what I would call polymathic skills to reason across disciplinary borders and domains in ways where you'd really need a room full of experts from different disciplines to do do similar kinds of things can be extremely valuable now uh in in terms of of helping scientists reason out of the box to design experiments to think through new possibilities. So um AI uh over the decades has provided extremely useful technologies. How many of you don't use GPS to travel between points A and B the with the AAR algorithm uh and and its variance um along the way we've had incredible opportunities and and useful technologies that have been le that that have been leveraged um and that will continue to happen. The question I have is how will will some of the magic that we're seeing I say magic because it is
+
+
+00:13:09
+poorly understood. We we sort of we we do not know exactly uh how some of these skills are emerging in the large scale generative models. how can they be harnessed um for valuable tasks in ways that we haven't harnessed AI in the past and per the people who are concerned and for concerns more generally what are new concerns arising I'll say one more thing about the more general models there's an opportunity to also you mentioned reliability useful and usefulness and reliability Francesca I believe there are new questions arising about even in advance of notions of definitions of reaching um uh artificial general intelligence um of how to control and guide these systems. What are their downsides? What are the rough edges? And you might say that along with generality comes the prospect of giving these systems more general appreciation for ethics and human values. um to let them reason more
+
+
+00:14:16
+deeply about reliable output, competence levels, well-c calibrated uncertainty for example. So there is the hope that it's not just more general intelligence to do tasks but more general reasoning about human goals. Yeah. But I mean human intelligence is not just about problem solving capabilities but it's also about metacognition ability to reflect upon your own capabilities available tools which one is better to use which ones is are my values and how I align to this values.
+
+
+00:14:49
+ So definitely it's part of human intelligence. Stuart do you want to add anything to this uh questions? Uh no I I I think um I think we should move on. The next question is a question that everybody expects when there is a discussion about AGI of course which is are we close to achieving AGI and uh also how can we tell if we are close or how can we tell if we are there already so that's a question about the 20 years or the two years at this point ahead that everybody discusses which I mean uh we we can we should discuss because I think everybody expects. So let's start with Eric again. Yeah, it's difficult to say how close we are. We don't have an agreed upon map or destination, but um but progress is getting us closer to various notions of more general AI. I like to to say where we are today is uh amidst sparks of more general
+
+
+00:15:52
+intelligence. um advances uh like I mentioned in seemingly polyatic systems that can reason across modalities and disciplines u that appear to have the ability to make very human-like inferences um to engage in plausible multi-ter conversations and do a number of s things surprisingly well like writing code solving some hard computing challenges even tsp and satisfiability so we're seeing um large scale language models um with interesting advances that might be said to resonate and inspire folks with getting to more humanlike and superhuman capabilities. But we're also seeing today extremely fragile systems and breakdowns that are surprising. For example, if you look at the some of the failures on the geometric reasoning tests um that even children could do well are some are befuddling today's systems. that's not going to probably be a a standing uh block, but it's is interesting to see where our today's systems break down and where they do
+
+
+00:16:54
+well. Um we see certain lacks and we actually point out uh in the in the um future of a research report. We need we have gaps like the ability to learn in real time to do effective memory and recall episodic memory the poor abilities to do causal and counterfactual reasoning and lack of many other skills social competencies understanding physical reality um to sense and act in real world environments.
+
+
+00:17:20
+ Um, so I I I I don't think we're close in the sense of having systems that possess robust humanlike general intelligence, but we're getting closer. And I I do think some of the scenarios, it's it's time to be start thinking about those scenarios um that we see people writing about. Uh for example, the 2027 document we we were talking about in our pre-all.
+
+
+00:17:43
+ um start thinking about how things might go as we climb the curve of capability. I don't see us reaching plateaus by the way. I think we're gonna be moving let's not anticipate future questions in discussion Olar go ahead and let's try to keep the the responses a bit shorter so that we can cover many different dimension and by the way let me remind all the participants that feel free to use the Q&A um icon here in the in the zoom chat uh in the zoom uh uh system to ask your questions that we are going to look at them later uh Olar Yeah. So interesting, Eric, that you mentioned satisfiability in TSP, things that I've been studying and researching for a couple of decades now. I would claim that um actually generative AI currently is nowhere near even reaching very basic capability. So those I think would be two examples of where there's a lot lacking, but who knows whether there are roadblocks or not. Let me say the following. I start believing that we're
+
+
+00:18:46
+close to AGI by the time we have self-driving in the streets of Palmo, right? Um so just a few cars in some American city that's easy to do actually but you know in Russia traffic in Palmo that's a real benchmark and I see us being at least 5 years if not 10 years from that and then of course that's a basic skill um that you know 16 years old have there probably you know younger people too so I don't think we're all that close.
+
+
+00:19:12
+ Nonetheless, I think you're absolutely right that it is definitely not too early to to think about the possible consequences of being wrong for instance in that assessment or even if I'm not wrong and you know we're only there in five or 10 years or maybe even in 50 years I do think we need to think about the consequences of even getting close right the difference and maybe we can discuss that later is in what we should worry about most right now.
+
+
+00:19:36
+Should it be AGI or should it be other things that are happening uh with AI developments and and I believe the latter but that's a topic for uh a later point in the conversation perhaps. Stuart, do you want to add anything about how close we are to achieving a GI? I I think it's hard to tell.
+
+
+00:19:57
+ I I would say that the nature of progress is very different now from what it was up until 2012 or so. I mean up until 2012 what we considered progress was here's a thing that we don't understand how to do and then we gained understanding on how to do it. For example, you know, we develop a theory of reinforcement learning and then reinforcement learning with uh general function approximators and uh and so on, you know, planning algorithms, hierarchical decision-m uh real-time decision-m we develop theories of all of these things and and then we could say, well, we still don't understand X. Let's see if we can understand X. since 2012 to a first approximation none of that has happened that there has been no progress of that form where we there was something we didn't understand and and now we understood it. Uh instead we have simply made things bigger and bigger and bigger and bigger uh and we've observed that sometimes uh they
+
+
+00:21:02
+start to exhibit things that we that they weren't exhibiting when they were smaller. So it's a it's a completely different type of progress uh than used to take place in AI. So it's very hard to say well if we just keep doing that is it going to uh fix all the problems that that Eric mentioned.
+
+
+00:21:20
+ um you know and there are some solid theoretical reasons that uh it's not at least by scaling the the LLM itself um that that's not going to solve the problems and um you know we can we can see that for example we were able to show that what we thought were superhuman Go programs uh actually can be beaten by ordinary amateur human go players.
+
+
+00:21:52
+on a regular basis um because the large circuits that that underly their performance have failed to learn the basic concepts that go correctly. Um and and this this I think is is a symptom that uh the the idea of that a fixed depth circuit uh can be made large enough to solve all the problems of the universe is just it's just a mirage.
+
+
+00:22:16
+ Uh but that's not what we're doing, right? We've given up on scaling um giant circuits about 18 months ago. Uh and we've moved on to uh to systems based on uh iterating calling those large circuits many many times so-called large reasoning models. Uh and in principle that does um that does contain the potential.
+
+
+00:22:42
+ Now you now you've basically built a touring machine. And so in principle, we can't argue that that that Turing machine can't be intelligent because then you you'd be saying the AI can't exist. So I I I I would say we don't have a good reason uh to be able to predict the the benefits either of further scaling of the LLM circuits themselves or of simply pouring more compute into the reasoning phase. We may need to Stuart.
+
+
+00:23:11
+ I I love the fact so so Hulgar Stewart and I you might say grew up uh and I'll I'll I'll call what Stuart referred to as the previous time as the rationalist uh era of AI where we work to understand the detailed mechanisms uh and teach them and put them in books and uh and and the frontier was very clear and we had crisp questions that we would answer technically with models like a basian network.
+
+
+00:23:39
+ you can understand in detail how it all works and we can look at the the principles actions of probability theory and understand how how distributed algorithms might work when now uh the way I'd put it is we've entered a world of um empiricism and that's a nice word for even I mean a better word would be alchemy with scale it's interesting to watch what's happening but that raises questions about and and maybe it it poses the need to invest more deeply in the scientific foundations uh and per per what that for how our current understandings read on our ability to guide control and shape. Yeah. And and in fact, Eric, this is you remember was the subject also in another chapter of the report, you know, which uh where we see that AI research is now mostly in that some areas focused on evaluating on benchmarks on tests um emerging behaviors rather than designing
+
+
+00:24:43
+systems that have some behaviors um that are predefined. you know which uh is was the topic of previous versions uh of AI. Um so so we already got got into this next question which is you know how likely it is that continuing scaling up the existing system design approaches will yield the GI this actually is a question that we asked in the community survey and the majority of respondents I think 76% uh said that the scaling of current AI approaches is unlikely or very unlikely to succeed in achieving AGI. So suggesting that we need different techniques, we need a combination of techniques, we need loops or or no different kind of AI techniques to be uh combined in order to achieve AGI. Uh Olgar, do you have any other thought about this?
+
+
+00:25:48
+Well, I do think it becomes clearer and I wish we would invest even more effort into it where the limitations of the current approach are, including uh what Stuart just described as large reasoning models, right? Um because to me it's completely unclear. Uh while in theory, you know, of course they they might be able to do anything, it's it's very unclear to me whether they will be doing it uh efficiently enough to be of any practical value.
+
+
+00:26:13
+ Um and of course uh the chapter on AGI uh talks about deep planning and deep reasoning which are two pretty crucial capabilities that have long been associated um with sort of particularly um impressive feats of human intelligence. Right? So if you want to do science for example uh deep planning and reasoning is essential. Um but uh of course also for computing itself including uh the creation of computer software which is something that of course people do use generative AI techniques for right this is this is very crucial because computers are logic machines and therefore uh to make sure that they do what you want them to do just in terms of software not AI right just just software think of banking software for example right um it's very important to get the logic right and and there appears to be to me currently a very fundamental roadblock I don't see how scaling will address that roadblock and I see zero evidence that we're making any major progress in that realm. Now that doesn't say that it's impossible because we have AI techniques including interestingly
+
+
+00:27:16
+enough ones that are also not very well theoretically understood right so what makes a modern SAT solver really as efficient is as little understood as what makes an LLM efficient right there's there's been a lot of empiricism in in that as well um so but but the point really is there are other AI techniques that probably will be useful there or that show behaviors that we would want to see in AGI techniques before we can really um speak of them as AGI and and you know bringing this together in particular the deep um reasoning and uh the the the deep planning kind of skills with the current more perception more sort of inan language system one skills right to me seems to be a big open question this isn't to say that you know there couldn't be a breakthrough in in a few years um but I think it's it's a thorny question a difficult question I wouldn't expect super rapid progress there anytime soon. Certainly not by simply iterating uh in the style of of uh of uh of generative AI style reasoning which is really not reasoning at all because
+
+
+00:28:20
+it doesn't come with any formal guarantees and proper reasoning as we know since the ancient Greeks should come with formal guarantees otherwise it's not really reasoning right yeah thank you thank you Oliver so now you know it's clear that we don't know when a GI will be achieved and we are not sure about the path to achieve AGI but let's assume for a moment that we do achieve AGI and uh and then let's try to understand what would likely or possibly happen if we achieve the AGI um some of the people attending this panel may have seen a recent report report called AI 2027 where there are there are descriptions of future scenarios where AGI is achieved D uh mixed with the geopolitical race. Um increasing AI capabilities one month after another one. Um achieve having challenges in aligning these AI systems to uh to human
+
+
+00:29:25
+values and that makes humans you know less and less relevant and even deceived manipulated with AI that controls everything. So, how are these scenarios uh realistic or or not? Let's start with Eric. Well, I I I think we we we do need to even today with today's technologies, but getting into more powerful artificial intelligence need to think deeply about um concerns as well as way on the optimistic side u ways that things might be harnessed to go well um incredibly well for humanity.
+
+
+00:30:01
+ Um but there are real issues of power concentration, misinformation, and misaligned incentives. Um I don't sometimes people when they hear AGI they think that AGI comes along with everything about humans that's humanlike for example human goals and human ego um the sort of essential uh you know long-term drives that were put in place by evolution that that we see in human beings we don't necessarily have I think need to assume we're going to have autonomous systems that are uh deceiving humanity uh and and seeking to take over uh or those that those narratives are will be you know are inevitable or highly even even highly likely. Um I I I do think again um we need to really think deeply about risks of misuse. Um the more likely risks are people in governments using AI to man to manipulate or surveil or dominate
+
+
+00:31:06
+others. Um uh there are also implications on what I like to think deeply think refer to as deep currents. Um these typically are outside of what folks who fixate on safety and loss of control tend to worry about. Um, for example, what does AGI or AGI like technology mean for human self-identity, human agency, our potential deep over reliance on AI systems for so many things that maybe should be in the hands of human decision makers, um, psychological dependence on AI systems, um, other emerging issues associated with new forms of intelligent systems in our daily lives. So we need to invest more in understanding those kinds of things. Um and of course the big issues that are are hitting uh well getting lots of attention now are labor like what does what what do more competent systems mean about labor and the economy and the kinds of even jobs people are planning to have in the future. you know
+
+
+00:32:10
+already uh the studies show that people in like like in medical schools as they finish their medical degree are thinking about when they think they're about their residency um what's the relevant what's the where might humans be novel and unique in different medical specialties a few years ago there was a study that showed that people in medicine were were finishing medical school were less likely to choose radiology because they're worried about discriminative AI in those worlds taking over the ability to do pattern recognition. But now, of course, that whole landscape is changing and many air specialties being even beyond medicine are are at risk for at least major changes to to the daily flow of effort and tasks and problem solving in disciplines. Thanks. Thanks, Erica. That's very useful. Alger Stuart, what about these future scenarios? Yeah. So I you know the the AI 2027 uh scenario you know it's written by people who are or were until recently
+
+
+00:33:14
+you know working at the coalace as people often say um and and so it seems like the you know the narrative has switched. People used to say well if you're working at the coalace you realize that you know we're decades and decades away and and and stop worrying. But now the people who are working at the coreface are saying worry.
+
+
+00:33:30
+ um you know and even so just recently you know Sundar Pitchi the CEO of Google who had until recently I think stayed out of this and still describes himself as an optimist he said the underlying risk is actually pretty high. Um and uh so it would be interesting actually to see you know is there someone writing a scenario where things go right um where governments actually uh get their act together.
+
+
+00:34:03
+ I mean at the moment you know as we know in the US uh the uh the current bill um actually prevents AI regulation for the next decade. Um and so uh and and that's deliberate, right? We have the vice president of the United States saying uh we shouldn't regulate AI because if we do uh you know the chi, you know, we'll all be enslaved to a Chinese AI, which I guess is viewed as being worse than being enslaved to an American AI.
+
+
+00:34:35
+ Um and I think there are things that governments could do to uh to just signal look you know we want people to achieve a AGI but just telling you now we are not going to allow unsafe AGI to be deployed. Um, and this makes perfect sense it seems to me, right? Why would we deliberately allow uh the release of a technology which even its creators say has a 10 15 20 25 30% chance depending on who you ask of causing human extinction.
+
+
+00:35:16
+ Right? We would never accept anything close to that level of risk for any other technology. Um and uh and it's not the detractors, it's not the doomers who are saying that it's the people who are building it who are saying that. Um so if government said look we are not going to allow any unsafe AI to be released then the companies would have to work on not only powerful but also safe technology just like the airplane manufacturers there's no point in making airplanes faster and faster if they all crash within 5 minutes of taking off right be obvious the government is not going to allow planes uh you know people to get on planes if they're going to crash within 5 minutes. So, plane manufacturers work on safe planes that are comfortable, that are big, that are fast, but they all have to be safe. Uh, and the same thing should be true for AI systems. Yeah, of course, I would agree to that,
+
+
+00:36:25
+but but it's trickier for AI systems than for for aircraft, right? I mean, as it turns out, it's it's hard enough for aircraft, which is why some of them still crash quite sadly, right? Um so even there the safety record is not nearly as perfect as we would like it to be and the impact is very well contained right that that would be very different for an unsafe AI agent where you know it's it's the equivalent of countless plane crashes all due to very similar issues I would say right so I think there's more at stake with that including by the way things like you know the the safety of future airplanes and cars because they too are already being designed and increasingly driven by AI systems right so It's it's a different level of risk that we're looking at and of course it should be taken seriously. At the same time, I do think while we should take that risk very seriously for the reasons that Stuart explained very well. Um I do think there's another risk which which deserves to be taken as seriously because it's playing out right now and doesn't require any assumptions of scaling and reaching uh any form of AGI and and that is the risk of of you know
+
+
+00:37:28
+not so powerful AI systems causing a lot of damage even if we use them with the best of intentions and I think a really good example for that um are AI systems that are used for uh programming right for making software and I know that around this table we do have um a bit of a difference of opinion there but but certainly there is pretty hard evidence out there um that you know the software that less than fully capable software engineers so I'm not talking about real experts but people who you know basically can't program too well produce using current um uh generative AI techniques is is not safe uh is not efficient um and often is also not correct right so the the scenario that that I personally worry about and I think many others do too is drowning in a sea of incorrect and buggy software long before we experience AGI problems and that's something I think that needs to be taken seriously and there I think again Stuart's reasoning is dead on right we we shouldn't allow that to
+
+
+00:38:31
+happen right we should have very strict quality control and one of the aspects of this in my opinion is that at least as long as the technology is in the state that it's currently in um we need to ensure that somebody signs off on all of the stuff that is being generated, the code that's being generated, who really knows how to code or at least knows how to make sure that code works correctly, right? And that's currently not happening to a sufficient degree.
+
+
+00:38:54
+And that's not the fault of those who make the tools and put them out there. That's the fault of those people who use them without proper understanding of their limitations. And therefore I think we need to invest more into understanding and characterizing and communicating widely um the the shortcomings and the pitfalls that current tools actually have so that they can be used responsibly and then perhaps increase productivity and and even you know software efficiency which is something that our society already relies to to a very great extent right AGI or not you know you know let me say a quick comment on on what Stuart and Hogar had to say about uh guidance and regulation It it it's up to us u as scientists to communicate to government agencies especially those right now who might be making statements about no regulation this is going to hold us back. Guidance regulation um buy off reliability controls are part of advancing the field making the field go faster in many ways.
+
+
+00:39:58
+So um simple notions of no regulation for 10 years or uh oh by the way the states in the US are trying to do this let's block them too can really go uh um could be at odds with making good progress on um not just advancing the science but on translating it into practice. We need to be very cautious about jargon and terms like regulation or bumper stickers that say no regulation because it's going to slow us down. It can speed us up done properly.
+
+
+00:40:30
+We should be cautious and care and communicate to governments about that. Right. The the the sometimes, you know, we use this analogy that car brakes are not slowing us down. Car brakes are what allow us to go faster. Reli reliable brakes, right? Brakes. Yes. Okay. Yes. So, um Yeah. So I think that Olar anticipated a little bit a follow-up question which is whether we should worry uh about most worry about AGI or about the shortcomings and the unawareness of some of the shortcomings of current AI and the not not safe enough uh characteristics of current AI. Any anybody wants to um comment on that as well? I I would just say you know it's it's not a dichotomy. It's not it's not as if we you know we can only walk or only chew gum. We can walk and chew gum at the same time and we can also be concerned about climate change. I mean
+
+
+00:41:32
+you know some people say stop worrying about AI because climate is the only thing that matters. Right? I mean the these arguments don't really make sense. Um and in fact I would say um the concerns we have about the you know the existing harms of AI for example um with bias with misinformation and so on um it's a continuum right what we want is AI systems that don't harm people and uh you know if we come up with uh you know technical solutions to those problems uh and regulatory solutions those will be useful uh for some of these other larger scale risks as well. Um and uh you know we we held a a meeting in February uh the there's a new organization called the international association for safe and ethical AI uh which I should add is not a competitor to tripleAI uh who are all on the same team. Um but uh you know at that meeting I think you know we we
+
+
+00:42:37
+tried to end this schism. You know the media loves to play up the schism between those who are concerned about short-term uh existing harms and those who are concerned about uh the long-term risks but um there really shouldn't be a schism and and I think at that meeting it was clear that the schism uh you know is is not that real and people accepted that this is uh you know that there's a continuum and then there's synergy uh between working at at every point on the continuum. Yeah, I'd like to say that that it's um getting things right now um uh gives us general principles and directions on the road map that will help us in the future as well. It's not like these are very uh separable distinct challenges uh for which guidance, controls, regulation and mechanism are are useful. You know, there's lots of generalization that can come from today's work. I have to say that I'm most concerned today uh
+
+
+00:43:40
+on the near-term road map, which I think will extend into the future about AI being leveraged for um misinformation and inappropriate persuasion. Um and on the other side um the the potential to leverage uh AI technologies in the sciences for the dual use uh for wonders as well as for malevolent activities for example um in in the in the um biology biological hazard space.
+
+
+00:44:07
+ um uh our team at Microsoft uh we've invested quite heavily on both of those of those pillars those two concerns right now uh with concrete uh actions on the on for example on the disinformation side you know sort of working with others to come up with media providence and watermarking and thinking deeply about where things are going to get ahead of things now or try our best as well as on on the biocurity side to think deeply about controls and challenges there so I I think it's We have to all sort of identify where things are. Where's where's the puck moving on the ice right now and start working immediately on these on these current uh rising threats because they'll rise further with the more powerful AI technologies. Yeah. Uh one of the questions uh uh that were asked uh in the community survey around a the AGI chapter uh was actually about this dichotomy that Seart says this maybe should not be there and the
+
+
+00:45:12
+question was about do you think that the person of AGI should be the core mission of AI research community or it should aim to design systems with an acceptable risk-to-benefit profile and I think that it may surprise many that the majority 77% of the respondents prioritize designing AI system with an acceptable risk benefit profile over the pursuit of AGI only 23% of the respondents say that.
+
+
+00:45:41
+ So how do you comment on that? Uh and uh on that question maybe Stuart as a natural comment that maybe that was too dotomic the the question because you can do both right. Um do both. Yeah. No, I I I think the question as written was perhaps implying that pursuing AGI means pursuing something that doesn't have a acceptable risk to benefits profile.
+
+
+00:46:10
+ Um and I you know that that may still turn out to be true. Um because we actually we don't we don't have and this is anticipating a question further on uh we don't have an approach to to ensuring that AGI type systems are are safe. Um but uh you know I I think I let's say that the 23% who said no we should pursue AGI anyway let's assume that they meant you know AGI under the assumption that we can uh we can make it safe.
+
+
+00:46:50
+ Um and but there's still the question right why are we pursuing AGI in the first place and we talked about this a little earlier that um when when we list the potential benefits of AGI and people usually talk about things like you know better medical diagnosis or solutions for climate change you know those don't require AGI at all right you know the the most um significant advance coming from AI I recently is probably alphafold 2 which uh is for predicting the shape of proteins and that that was the first uh you know Nobel prize resulting from AI research uh and it doesn't resemble AGI or large language models or large reasoning models at all and um and the same is true for AI systems that are uh rapidly improving our ability to do climate modeling. for example, uh which again have nothing
+
+
+00:47:53
+to do with AGI. Um and this is a point that um Yoshua Benjo is making that we can uh we can build sort of uh AI science tools uh that don't resemble AGI. Max Tagmark is saying the same thing. Um, so, so what the residual is, well, AGI is really cool anyway, or you know, a AGI would allow us to do all of those things without even having to do any work, right? We would just ask it to predict the climate and it would figure out how to do it.
+
+
+00:48:24
+ Um, and and that's an interesting dream. But the the other question you have to ask is um is if if AGI can do everything that humans can do, then what do humans do? And um and I I have asked science fiction writers and futurists and AI researchers and economists describe a world where we have AGI that can do everything that humans do that you'd actually want your children to live in.
+
+
+00:48:56
+And um I am still waiting for such a description. Uh so there is a real question you know despite how exciting and how cool it would be to have AGI uh is it in any shape or form would it actually be beneficial to human society? Um and if not then why are we spending uh an amount of money that is you know this is the biggest scientific project the world has ever undertaken.
+
+
+00:49:28
+ It's it's 25 times bigger than the Manhattan project. It's 250 times bigger than the Large Hadron Collider construction project. Um and and yet nobody has an answer for why we're doing it. Yeah. So in fact the very definition of AGI in some sense embeds the idea of replacing human beings because if you have an entity that can do everything that the human being can do then then you know you have some incentive to replace a human human being with this.
+
+
+00:50:03
+ So Olga, so yes. So should then the AI community replace the goal of achieving AGI with the goal instead of building even narrow or general, you know, or makes just systems that support and augment human intelligence and creativity rather than AGI. What do you think? Well, before I say what I think about that, I I would like to connect to something that that Stuart just said.
+
+
+00:50:30
+ I think we actually know perfectly well why enormous resources are being poured into producing AGI because whoever succeeds in that it will be enormously profitable right um and that that insight is is not new and in the short term exactly and you know unfortunately a lot of profit driven thinking is remarkably shortterm as we can observe when we look at other parts of the world right but you know the the first person that I know of who actually formulated this quite nicely in modern times.
+
+
+00:51:04
+ Uh what what the goal here is was Herbert Simon, a computer scientist who also won a Nobel Prize in economics if I remember correctly, right? Because he was also an economist and and he famously stated in 1965 um that in his opinion machines would be capable within 20 years so by 1985 of doing any work that a man can do. And that was the dream then and that still is the dream behind much of the AGI research direction and work right and short-term that would be enormously profitable.
+
+
+00:51:34
+ It would also as Eric pointed out much earlier in our conversation today lead to an unprecedented of uh concentration of power and wealth right which could be deeply problematic geopolitically but also just society right. Um, so having said this, of course I very much believe that we should focus much more of our research on the kind of AI systems where the risk benefit ratio is clearer and where the risks are easier to control and the benefits are are easier to achieve than than with AGI, right? And and these exist as Eric has pointed out, as Stuart has pointed out, and there are many examples beyond those that have been mentioned. And so I believe we should spend more resources on those kind of AI systems that augment rather than trying to replace wholesale. And I also think we should spend more resources on understanding the strengths and limitations of the eye systems that we're developing. Not just the ones that
+
+
+00:52:36
+we already have, but in particular the ones that we are about to develop right now. And if we take the analogy that has been used earlier with you know providing safe transportation what that really means is rather than cluing things together that might get us if we were thinking of rocketry into a lower earth orbit but then sort of crash and burn right we should perhaps sort of take the harder path and make things that safely get us there and back again right and I would argue that a lot of the systems that people are excited about right now the ones that we have and and certainly the ones that that some people and some companies with very deep pockets are pushing for, they're not exactly that, right? They they could and should be much more sort of solid engineering with well understood properties, features, limitations, weaknesses, right? It's actually not a problem if if a system has well understood weaknesses because then one can use it in appropriate in an appropriate manner. But what is a problem is blackbox systems where people including people with the very best
+
+
+00:53:39
+intentions using the system are completely unaware of the weaknesses because nobody really understands them. Right. So I think we should invest more in understanding those weaknesses as well. Yeah. Could I just say that the goal I think the goal of our field is to is to push on the science the principles and applications of machine intelligence centered on human well-being.
+
+
+00:54:01
+ Um the principles that we uncover in the science uh the exciting science uh can be leveraged in numerous ways on that goal. Um we have to think deeply and in a human- centered way about how the principles and learnings and mechanisms and machinery are applied. Um you know the the the AGI gets into questions and principles about long-term questions about the nature of the human mind.
+
+
+00:54:28
+That's part of scientific curiosity that's going to continue. Um but it's the applications and the guidance of the technologies as we discover these principles that's going to be most important. We have to continue to say what is our goal when it comes to the applications of these technologies and the goal is to enhance human well-being period.
+
+
+00:54:49
+Right? Because of course you know technological progress is not an end you know by itself. you know, technological progress is the means to to achieve, you know, human progress. But people that are very deep into that advancing the technology, they sometimes they don't see that connection at least in that direction.
+
+
+00:55:14
+No, uh that it should be humanentric and uh you know towards the humanity progress. So um so we have few more questions but I think I also would like to have you know cover some question that have been asked by the participants. Um so let's just do one round about the AGI control but very rapidly you know so Stuart already mentioned that there is no technical currently technical approach to uh control and to make AGI system safe.
+
+
+00:55:44
+ So what should we do? Should we halt the AGI research until we find this technical way to control it or should we make sure that everything is public so that it's for the common good? Um, it's interesting that in the community survey most respondents like 70% opposed the proposition to halt AGI research until full safety and control are established.
+
+
+00:56:13
+ Um and in terms of the public ownership, 82% of the responses believe that systems with AGI should be publicly publicly owned. Uh any comments about these uh topics? You know, well, I mean, I I don't think halting research is realistic and productive. I said this before when there's a six-month call for a six-month pause.
+
+
+00:56:37
+ Um we need to continue to explore these principles both with safeguards, transparency, uh cross-disciplinary collaboration. I think pausing sounds appealing in theory but progress is distributed you know globally. It's across sectors. U but we need to sort of the research includes the actual trajectory on governance accountability machinery for reliability and safety from the be you know as part of the research.
+
+
+00:57:03
+ Uh so that should not be paused. You know, as Azimov had the really great statement um about this in the 50s when he he talked about that robots were pictured then as dangerous devices that would invariably destroy their creators. This is an old mythological archetype. Um and he say he said that basically um you should not refuse to look at danger but rather you should learn how to handle it safely.
+
+
+00:57:26
+ Um the solution is is not ignorance, sticking your head in the sand or stopping. It's wisdom. Uh, and that's the solution. Continue to work on these principles and they're being harnessed safely. Yeah. Yeah. I I would I I it would be great if um that's what we were doing. Um but you know when when they're talking off the record um the people working in the companies on safety will admit that they have no idea how to control AGI.
+
+
+00:58:06
+Um and they're not planning to find out before they build it. In other words, they are trying to build AGI and they're probably not going to have an an approach to control AGI systems uh at that point. um you know and and I I think the the failure mode that we have talked about most in the literature is is what we call the king Midas problem where where there's a uh you know the humans are specifying the objective like you know world peace or end global warming or end human suffering uh you know and the AI system achieves the objective by eliminating human beings who are the ones who are causing wars and causing global warming and uh and causing human suffering. Um and and so you can elaborate those scenarios, but that that's been the major failure mode that we've talked about. But the you know in with the recent developments with large language models it oddly enough they they don't have a fixed objective. Um in fact you know they're trained to imitate human
+
+
+00:59:11
+beings. That's that's how we train them. That's you know the pre-training phase is uh become really really good at imitating the way humans behave when they're writing and speaking. Um and that process results in systems that actually absorb humanlike goals um which the AI systems are pursuing on their own account not on our behalf but on their own.
+
+
+00:59:35
+ And and this is why they want to preserve their own existence. This is why they seem to sometimes want to marry human beings uh and so on and then they will you know lie and scheme and blackmail and replicate themselves to avoid being turned off and so on. So so in some sense it's even worse because we don't even know what objectives the systems are pursuing and and it's almost certainly misaligned because we don't want machines to pursue human goals on their on their own behalf.
+
+
+01:00:04
+ Um and so if we want to if we want to um continue towards AGI um then uh we we must have uh a way of understanding how to control them. Uh and it seems to me this is a precondition uh for continu continuing along this path. So it's not a moratorium. We're not saying just stop doing research, stop building AGI.
+
+
+01:00:36
+ Uh it's just um the same as we do for many other technologies. So a nuclear power station, nuclear power companies can do whatever research they want, but before they deploy their system, they have to prove that it has a meanantime to failure of 10 million years. Uh and you can design it however you like, but you have to provide that proof.
+
+
+01:00:57
+ Um and that's not a moratorum. uh that's just a a a reasonable request from governments that the things you build are safe enough for human populations to live with. Uh and so I think that's the right way of thinking about this rather than a moratorum. Thanks. And of course for this to work if I may add um it's very clear that that you know the checking um the rigorous checking that systems are safe cannot be left to those who build them right because then the incentives are just grossly misaligned which is not to say that that some of the companies that are building them aren't doing great research on responsibly using them as well. Clearly they are right. But but we shouldn't um trust uh them with this uh exclusively and that's also one of the reasons why it's a good thing to have some of this research going on in the public domain, right? So that it's it's really subject to full scrutiny and there are no secrets that you know need
+
+
+01:02:01
+to remain hidden to preserve future profit quite legitimately if a company is doing it right. Yeah. So that's one of the reasons why we really need large scale efforts fully in the public domain and fully responsible uh and and fully exposed to public scrutiny um to to asssure um that what is being put out there is reasonably well understood the way uh you know a nuclear power station might be.
+
+
+01:02:24
+ But once again it's it's incredibly more complex than even a nuclear reactor and that makes things very difficult when we want to ensure safety, right? especially with these open-ended systems that that lie on the path between what we have now and AGI. You let me say as as the industry person among the three of us that we're all in this together.
+
+
+01:02:46
+ Uh you know so there's lots of work inside and outside industry in academia, computer science, ethics and beyond. Right now we have to all come together on these topics and you know even thinking through incentives and programs and audits and various kinds of approaches to to bring academia, industry, uh government uh civil society together will be very important I think to to handle this in a multi-disiplinary way.
+
+
+01:03:12
+ The goal is again to to build systems that help people to flourish. Companies that can do that well will do the best will make have biggest profits. there's some really top level incentives to keep things safe and and effective and and uh helpful. Um so I I think we'll need ongoing rich technical and sociotechnical research um and interdiciplinary research and multiple points of view but to come together on these topics and we we do in research uh settings and beyond.
+
+
+01:03:43
+Yeah. So we are above time but let me ask at least one question that have been uh put forward by the attendees. Actually I'm combining two questions um by two different people. So the first one is if AGI isn't a fixed end point but a shifting concept shaped by societal values and institutional laws who ultimately defines what counts as alignment? And the second one is also related to the alignment and it says how can the global AI community ensure AGI safety and governance frameworks are co-designed with meaningful input from the global south instead of being built so solely by in the global north and later adapted for the south. So uh you know the val the the idea of safety includes also and is very relevant for value alignment and who whose values are these and how we we address the values of the different communities and different cultures. Any last thoughts
+
+
+01:04:45
+about this? Uh I'll say a couple of words. So, so I think this this phrase value alignment which apparently I introduced I didn't know that I did but apparently um came from a paper I wrote in 2014 um is is not intended to mean there's one set of values. So there's the question whose values does that there isn't an answer to that because it's everyone's values there's you know in principle AI systems can have 8 billion preference models for the 8 billion people who are who live on earth a and should make decisions based on well which of those people will be affected by this decision um and then take into account all of their interests. Um so there's still questions of well how do you aggregate those interests? how do you trade off, you know, if the decision affects some people positively, other people negatively, uh, and so on. But, but those are those are questions that philosophers have come up with reasonable answers over the last few thousand years. Um, that's not what we're actually doing,
+
+
+01:05:49
+right? When we build these uh reinforcement learning with human feedback systems, we're actually creating a single value representation, a single reward model uh which I think of as kind of the Midwestern nice lady librarian McKenzie consultant uh value system, right? Um and uh and and I think as the question the question are asked uh about you know how is the global south included? um it's not really included although many of the raers are actually in the global south.
+
+
+01:06:22
+ So the people who are answering these questions um the the guidelines that they're getting on how to uh provide feedback to the AI system are written by people in Silicon Valley. Um so I think that's a mistake and and there's a lot of work now on so-called pluralistic alignment that's that's trying to correct for this.
+
+
+01:06:45
+ Um, you know, there's an odd finding from the Center for AI Safety that actually LLMs value the lives of Nigerians uh 10 times more than they value the lives of Americans. Uh, so for some reason they do seem to have a big bias in favor of the global south. uh and that's pretty consistent um across uh several different types of systems uh and many ways of asking the same uh the same basic question.
+
+
+01:07:14
+ um my you know on the geopolitical front I I I think it's just a fact of life that uh the the you know the US and China are the developers of this technology and so they are in the driving seat on uh on how it gets regulated um and questions like that. Um, but I I think if we want safety, it has to be globally agreed.
+
+
+01:07:46
+ And so I would encourage, you know, the global south can exert a lot of weight uh in pushing for global agreement on uh on safety requirements on on on fundamental rights like do do we have a right to know if we're interacting with an AI system? uh on questions like truth, right, and versus disinformation that humans have a fundamental right uh to access the truth rather than having just being subject to disinformation.
+
+
+01:08:19
+ Uh I think these are things where uh we really need a a global coalition to work on them. If I can just say very shortly that I think that there's an incredible opportunity this gets into the research space uh and human AI collaboration space for system for us not to necessarily rely on implicit values that are learned in these systems but to actually do more dynamic and explicit assessments and engagement on end user preferences and values um that would would would learn to leverage individual uh preferences.
+
+
+01:08:55
+uh we could do a lot more on that front and there's more to come in that department. Uh I'll just point that out that I think that we're we're going to be getting into a world of ultra personalization for these systems and that includes really understanding the values of the individual. Olar do you want to say something about this? Yeah, and of course I think in the end we shouldn't forget you know this question of value aggregation as Stuart says has been you know thought about deeply for for a long time. Um but I think it's also been clearly established that there are no perfect solutions in that space, right? Um and so one has to be aware of the fact that in particular simply imitating humans is probably not going to get us to where we want to be because most people I think are actually quite bad at even acting according to what they believe to be their own or what they voice to be their own values. Right? So I think what what I would really like to encourage us to do is to sort of shift the goalpost from sort of perfectly imitating a human being to
+
+
+01:10:00
+making something that that makes us better, right? That interacting with makes us better, particularly in things where we're perhaps naturally, understandably, evolutionarily um not very good, right? And and so I believe more resources should be dedicated to that as well. And as a side benefit of this, not only will we get, you know, better tools that that help us, you know, make make a better life, as Eric said earlier, but also I think will we gain better understandings of, you know, our own weaknesses and limitations and and then find ways to overcome these perhaps more efficiently than simply some magical belief in if we scale up human intelligence, if we can imitate human beings and then scale this up further, surely things should also turn out right or or make us better. I I don't think that's necessarily the best way, even the most obvious path to creating benefit for humanity. Of course. Uh any final oneline thought for the people uh who are listening to to you and about AGI or about AI,
+
+
+01:11:06
+whether these people are advancing AI, working AI or just using AI in their everyday life. Um, Eric, well, I like to think about um the pursuits of artificial intelligence not as a a monolith like AGI, but as a rich diverse landscape. It's, you know, these ideas about human level and artificial general intelligence are useful aspiration frames for exploring the space, but it's not the destination.
+
+
+01:11:33
+systems that we're building should be built to help people flourish uh and society to flourish that extend our the reach of humans uh without eclipsing our own judgment and our own agency developed with care, humility uh and an eye towards long-term impact and influence.
+
+
+01:11:50
+ Uh and it's going to take um it's going to take many disciplines getting together, industry, academia, computer science and and beyond. So um I I I actually view the the AGI topic uh and discussion as aspirational and interesting and it frame discussions like we're having today. Thanks Stuart. Uh so just looking at the questions I I I sense that the audience is thinking about the right issues uh about u benefit to humans about our ability to control these systems.
+
+
+01:12:27
+ Um and I would encourage uh everyone to stay involved in the discussion uh you know to talk to uh your political representatives um to uh work with your colleagues if you're working in AI companies uh to to think about these questions and and to uh pressure your managements uh to act responsibly.
+
+
+01:12:54
+ Um I one of the questions that we didn't get to is um that there seems to be a mismatch between uh leaders of the companies claiming that you know they're on the trail of AGI uh claiming that AGI could lead to human extinction and yet uh fighting tooth and nail to prevent any form of regulation. Uh you know and and I think that's a that's an interesting observation.
+
+
+01:13:18
+ Um you know my my view is that we can get together you know we got together in the 70s to uh to ban uh chlorofluurocarbons which are destroying the ozone layer. Um and uh and I think we can uh we can do the same to uh to ensure that the AI systems we build are safe and beneficial for the human race. Alter final thoughts.
+
+
+01:13:49
+Yeah, my final thought is we should be skeptical of hype and humble as researchers and also as people who are deploying that at scale. Um cautious. We should be what good engineers and good scientists have been for centuries. You know, we should strive for safe, reliable and as of late also sustainable technology and we should do that in AI just as in all the other technologies that that we're building and deploying.
+
+
+01:14:18
+um being cognizant of the fact that AI is having this transformative impact in many cases for the better. But there are risks, right? And we should not close our eyes um before these risks. We should we should be cleareyed about that and study these risks and and then exert political pressure where we feel that the risks are unacceptable.
+
+
+01:14:35
+ And I do think we as scientists have an obligation here, particularly those of us working on public money. Um and I would certainly hope that we do this as Eric said together with industry who also stands much to lose if this goes wrong of course. Thank you. So uh I would like to thank Holar, Stuart and Eric for a very deep and very insightful discussion on AGI very central topic for AI and uh and the goals of the AI community the impact of AI onto our society and the what what should be the role of technology in in our society which is human centric and uh helping humans thrive and progress. So thank you again to all our panelists. Thank you for all to all the people who has been who have been here asking questions. Sorry if we couldn't get to all your questions. I hope the discussion was insightful for all of you. Thank you and see you to the in the next panel. Thank you. Goodbye.
+

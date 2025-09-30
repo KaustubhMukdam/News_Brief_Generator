@@ -1,0 +1,10 @@
+openai
+groq
+python-dotenv
+pdfplumber
+python-docx
+requests
+scikit-learn
+sentence-transformers
+pandas
+streamlit
